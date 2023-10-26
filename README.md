@@ -49,3 +49,4 @@ $ python train_nueralnet.py
 http://www.ituring.com.cn/book/1921
 
 
+# DeepLearningFromPython
